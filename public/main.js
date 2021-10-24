@@ -1,5 +1,5 @@
 // document.querySelector('#add').addEventListener('click', addNewGoal)
-
+// collaborated with team Hayden to successfully complete the project.
 const buttons = document.getElementsByClassName('addGoal')
 
 Array.from(buttons).forEach(button => {
@@ -113,3 +113,4 @@ function clearList() {
         window.location.reload()
       })
 }
+// collaborated with team Hayden to successfully complete the project.
